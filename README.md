@@ -12,7 +12,6 @@
       text-align: center;
       padding: 50px;
     }
-
     .card {
       background-color: rgba(0, 0, 0, 0.6);
       border-radius: 20px;
@@ -21,17 +20,14 @@
       margin: auto;
       box-shadow: 0 4px 15px rgba(0,0,0,0.3);
     }
-
     h1 {
       font-size: 2em;
       margin-bottom: 20px;
     }
-
     #roast {
       font-size: 1.5em;
       margin: 30px 0;
     }
-
     button {
       padding: 10px 20px;
       font-size: 1em;
@@ -42,7 +38,6 @@
       color: white;
       transition: background-color 0.3s;
     }
-
     button:hover {
       background-color: #cc3366;
     }
