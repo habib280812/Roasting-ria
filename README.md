@@ -47,7 +47,7 @@
   <div class="card">
     <h1>Roasting Super untuk Ria Qistina (Abe Ji)</h1>
     <div id="roast">Tekan butang untuk mula roast!</div>
-    <button onclick="generateRoast()">Roast Lagi</button>
+    <button onclick="generateRoast()">Roast </button>
   </div>
 
   <script>
@@ -59,7 +59,7 @@
       "Kalau dia masuk debat, mikrofon pun give up nak dengar!",
       "Ria Qistina study 5 minit, rehat 5 jam – balance katanya!",
       "Dia posing satu jam, tapi gambar masih macam CCTV tangkap!",
-      "Ria kata dia queen, tapi mahkota pun lari!"
+      "Ria kata dia queen, tapi mahkota pun lari!",
     ];
 
     function generateRoast() {
